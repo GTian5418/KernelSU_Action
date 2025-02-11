@@ -6,7 +6,7 @@ This action is for Non-GKI Kernels and has some universality and requires knowle
 
 If you are not the author of the Kernel, and are using someone else's labor to build KernelSU, please use it for personal use only and do not share it with others. This is to show respect for the author's labor achievements.
 
-## Supported Kernel Versions
+## Supported Kernel Versions 
 
 - `5.4`
 - `4.19`
