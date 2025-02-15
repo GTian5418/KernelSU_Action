@@ -1,5 +1,5 @@
 name: Build Kernel
-于:
+on:
 
   workflow_dispatch:
 
